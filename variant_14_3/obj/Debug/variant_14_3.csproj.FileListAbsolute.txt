@@ -1,0 +1,7 @@
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\bin\Debug\variant_14_3.exe.config
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\bin\Debug\variant_14_3.exe
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\bin\Debug\variant_14_3.pdb
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\obj\Debug\variant_14_3.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\obj\Debug\variant_14_3.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\obj\Debug\variant_14_3.exe
+C:\Users\dmitr\source\repos\variant_14_3\variant_14_3\obj\Debug\variant_14_3.pdb
